@@ -1,0 +1,2 @@
+Prefix plugins/PlotMarker/example/
+Plugin PlotMarker inputfile parameters.markers.1.txt outputfile Marker1.pdf
